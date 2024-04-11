@@ -11,6 +11,7 @@ switch (nomeDia) {
         console.log ("Terça-feira");
         break;
     case 4:
+        
         console.log  ("Quarta-feira");
         break;
     case 5:
